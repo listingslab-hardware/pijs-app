@@ -41,7 +41,7 @@
     "redux": "^4.0.4",
     "redux-firestore": "^0.11.0",
     "redux-logger": "^3.0.6",
-    "ua-parser-js": "^0.7.21"
+    "ua-parser-js": "^0.7.24"
   },
   "license": "MIT",
   "eslintConfig": {
